@@ -34,4 +34,5 @@ module.exports = {
   leagues: prepForBulkCreate('leagues'),
   rosters: prepForBulkCreate('rosters'),
   users: prepForBulkCreate('users'),
+  invitations: prepForBulkCreate('invitations'),
 };
